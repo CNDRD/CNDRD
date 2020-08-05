@@ -13,7 +13,7 @@
 
 <br />  
 
-![CNDRD's github stats](https://github-readme-stats.vercel.app/api?username=CNDRD&show_icons=true&hide=contribs,issues,prs,stars)  
+![CNDRD's github stats](https://github-readme-stats.vercel.app/api?username=CNDRD&show_icons=true&hide=contribs,issues)  
 
 ---
 
