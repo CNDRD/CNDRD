@@ -11,7 +11,11 @@
 [<img align="left" alt="CNDRD | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]  
 [<img align="left" alt="CNDRD | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]  
 
+---
+
 ![CNDRD's github stats](https://github-readme-stats.vercel.app/api?username=CNDRD&show_icons=true&hide=contribs,issues,prs,stars)  
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CNDRD&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
