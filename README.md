@@ -6,7 +6,7 @@
 - I love magic  
 
 ### Where to find me:  
-You can find me almost anywhere under my nickname.
+[Here are all links you need to do so](https://cndrd.github.io/)
 Discord: CNDRD#2233
 
 ---
