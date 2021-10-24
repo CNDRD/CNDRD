@@ -2,7 +2,7 @@
 
 ## I'm a Student, Gamer, and a occasional programmer  
 - Currently learning everything pretty much  
-- I've made a [Discord Bot](https://github.com/CNDRD/5---Bruce)  
+- I've made a [Discord Bot](https://github.com/CNDRD/Bruce)  
 - I love magic  
 
 ### Where to find me:  
