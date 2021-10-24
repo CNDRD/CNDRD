@@ -11,6 +11,6 @@ Discord: CNDRD#2233
 
 ---  
 
-![CNDRD's github stats](https://github-readme-stats.vercel.app/api?username=CNDRD&count_private=true&show_icons=true&theme=github_dark)  
+![CNDRD's github stats](https://github-readme-stats.vercel.app/api?username=CNDRD&count_private=true&show_icons=true&theme=github_dark&hide_border=true)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=github_dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=github_dark&hide_border=true)  
