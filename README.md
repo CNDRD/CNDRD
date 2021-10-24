@@ -9,10 +9,8 @@
 [Here are all links you need to do so](https://cndrd.github.io/)  
 Discord: CNDRD#2233
 
----
+---  
 
-![CNDRD's github stats](https://github-readme-stats.vercel.app/api?username=CNDRD&show_icons=true&hide=contribs,issues)  
+![CNDRD's github stats](https://github-readme-stats.vercel.app/api?username=CNDRD&count_private=true&show_icons=true&theme=github_dark)  
 
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CNDRD&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=github_dark)  
