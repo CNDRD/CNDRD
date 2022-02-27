@@ -1,16 +1,23 @@
-### Hey there! 👋  
+<div align="center">  
 
-## I'm a Student, Gamer, and a occasional programmer  
-- Currently learning everything pretty much  
-- I've made a [Discord Bot](https://github.com/CNDRD/Bruce)  
-- I love magic  
+  
+# Hey there! 👋  
 
-### Where to find me:  
-[Here are all links you need to do so](https://cndrd.github.io/)  
-Discord: CNDRD#2233
+### I'm a Gamer, Student & Programmer  
+  
+I've made [Bruce 🤖](https://github.com/CNDRD/Bruce) and a [website](https://github.com/CNDRD/Diskito-Website), both for my [Discord server](https://discord.gg/sXDbtp4)  
+Trying to maintain [siegeapi](https://github.com/CNDRD/siegeapi)  
+
+I find beauty in solving problems  
+I love magic, photography and memes  
+ 
+[Here are all my socials and stuff](https://cndrd.github.io/)  
+If you wanna get in touch, here's my Discord 👉 CNDRD#2233  
 
 ---  
 
-![CNDRD's github stats](https://github-readme-stats.vercel.app/api?username=CNDRD&count_private=true&show_icons=true&theme=github_dark&hide_border=true)  
-
+![CNDRD's github stats](https://github-readme-stats.vercel.app/api?username=CNDRD&count_private=true&show_icons=true&theme=github_dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CNDRD&layout=compact&theme=github_dark&hide_border=true)  
+
+
+</div>
