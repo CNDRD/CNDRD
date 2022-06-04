@@ -3,13 +3,12 @@
   
 # Hey there! 👋  
 
-### I'm a Gamer, Student & Programmer  
+### I'm a Gamer, Photographer & Programmer  
   
 I've made [Bruce 🤖](https://github.com/CNDRD/Bruce) and a [website](https://github.com/CNDRD/diskito.eu), both for my [Discord server](https://discord.gg/sXDbtp4)  
 Trying to maintain [siegeapi](https://github.com/CNDRD/siegeapi)  
 
 I find beauty in solving problems  
-I love magic, photography and memes  
  
 [Here are all my socials and stuff](https://cndrd.github.io/)  
 If you wanna get in touch, here's my Discord 👉 CNDRD#2233  
