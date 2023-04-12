@@ -7,7 +7,7 @@ I'm a full-time **Perl** developer
 In love with **Python** since 2016  
 Working daily with **JavaScript**, **HTML**, **CSS**, **SQL** & **Kotlin**  
 
-[Bruce](https://github.com/CNDRD/Bruce) | [diskito.eu](https://github.com/CNDRD/diskito.eu) | [siegeapi](https://github.com/CNDRD/siegeapi)  
+[Bruce](https://github.com/CNDRD/Bruce) | [diskito.eu](https://github.com/CNDRD/diskito.eu) | [siegeapi](https://github.com/CNDRD/siegeapi) | [Siege skins](https://skins.cndrd.xyz/)  
 [My socials and other stuff](https://cndrd.github.io/)  
 
 ---  
